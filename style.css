@@ -1,0 +1,83 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    margin: 0%;
+    padding: 0%;
+
+
+}
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+        
+}
+footer{
+
+    padding: 2px;
+    width: 8%;
+    border-tob: solid 1px rgb(0, 0, 0); 
+    border-bottom: solid 2px rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(185, 185, 185);
+    border-radius: 5px;
+    
+
+}
+header{
+
+    padding: 10px;
+    width: 8%;
+    font-size: small;
+    border-tob: solid 1px rgb(0, 0, 0); 
+    border-bottom: solid 2px rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(185, 185, 185);
+    border-radius: 5px;
+    
+
+}
+
+
+
+button{
+
+    background-color:   rgb(155, 155, 155);
+    border-top-left-radius: rgb(0, 0, 0);
+    box-shadow:0 0 5x 0 rgb(0, 0, 0);
+    border-radius: 5px ;
+    width: 100px;
+    cursor: pointer;
+
+}
+
+
+#resposta{
+    width: 200px;
+    height: 50px;
+    border: solid 2px rgb(0, 0, 0) ;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    height: auto;
+
+}
