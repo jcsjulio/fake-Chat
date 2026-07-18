@@ -14,3 +14,8 @@
 - 1 Clone esse projeto
 - 2 Abra o VsCode
 - 3 Execute o Index.html com o live Server
+
+## Teste
+- 1
+- 2
+- 3
