@@ -10,7 +10,6 @@
 - VsCODE
 
 
-- 123
 ## Para Testar 
 - 1 Clone esse projeto
 - 2 Abra o VsCode
