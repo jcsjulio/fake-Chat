@@ -20,22 +20,26 @@ body{
 footer{
 
     padding: 2px;
-    width: 8%;
-    border-tob: solid 1px rgb(0, 0, 0); 
-    border-bottom: solid 2px rgb(0, 0, 0);
+    width: 2%;
+    font-size: 5px;
+    border: solid 1px rgb(0, 0, 0); 
+    /*border-bottom: solid 2px rgb(0, 0, 0);*/
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: rgb(185, 185, 185);
-    border-radius: 5px;
+    /*background-color: rgb(255, 255, 255);*/
+    border-radius: 2px;
+    border-color: black;
+    
     
 
-}
+    
+
+}   
 header{
 
     padding: 10px;
     width: 8%;
-    font-size: small;
     border-tob: solid 1px rgb(0, 0, 0); 
     border-bottom: solid 2px rgb(0, 0, 0);
     display: flex;
